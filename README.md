@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About this project
+
+This is an e-commerce project built using Laravel. In this project, I’ve created a complete course selling system with Stripe as the online payment gateway.
+
+The key features of this project include:
+- Secure Laravel authentication system
+- Responsive user interface using Bootstrap
+- Cart functionality with quantity management
+- Course checkout system
+- Online payment integration with Stripe
+
+I’ve implemented all these features successfully to create a smooth and secure course selling experience.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
